@@ -120,46 +120,46 @@ Multiply each digit by its place value (powers of 2) and sum the results.
 ## 📝 Practice Exercises
 
 ### 🔹 **Decimal to Binary**
-1. Convert 18₁₀ to Binary.
-2. Convert 43₁₀ to Binary.
-3. Convert 97₁₀ to Binary.
-4. Convert 256₁₀ to Binary.
-5. Convert 512₁₀ to Binary.
+1. Convert 18₁₀ to Binary. 10010
+2. Convert 43₁₀ to Binary. 101011
+3. Convert 97₁₀ to Binary. 1000001
+4. Convert 256₁₀ to Binary. 100000000
+5. Convert 512₁₀ to Binary. 1000000000
 
 ### 🔹 **Decimal to Octal**
-6. Convert 56₁₀ to Octal.
-7. Convert 200₁₀ to Octal.
-8. Convert 345₁₀ to Octal.
-9. Convert 999₁₀ to Octal.
-10. Convert 1024₁₀ to Octal.
+6. Convert 56₁₀ to Octal. 70
+7. Convert 200₁₀ to Octal. 310
+8. Convert 345₁₀ to Octal. 531
+9. Convert 999₁₀ to Octal. 1747
+10. Convert 1024₁₀ to Octal. 2000
 
 ### 🔹 **Decimal to Hexadecimal**
-11. Convert 100₁₀ to Hexadecimal.
-12. Convert 255₁₀ to Hexadecimal.
-13. Convert 500₁₀ to Hexadecimal.
-14. Convert 1023₁₀ to Hexadecimal.
-15. Convert 4096₁₀ to Hexadecimal.
+11. Convert 100₁₀ to Hexadecimal. 64
+12. Convert 255₁₀ to Hexadecimal. FF
+13. Convert 500₁₀ to Hexadecimal. 1F4
+14. Convert 1023₁₀ to Hexadecimal. 3FF
+15. Convert 4096₁₀ to Hexadecimal. 1000
 
 ### 🔹 **Binary to Decimal**
-16. Convert 1100₂ to Decimal.
-17. Convert 101010₂ to Decimal.
-18. Convert 111111₂ to Decimal.
-19. Convert 1000001₂ to Decimal.
-20. Convert 10101010₂ to Decimal.
+16. Convert 1100₂ to Decimal. 12
+17. Convert 101010₂ to Decimal. 42
+18. Convert 111111₂ to Decimal. 53
+19. Convert 1000001₂ to Decimal. 49
+20. Convert 10101010₂ to Decimal. 170
 
 ### 🔹 **Binary to Octal**
-21. Convert 111₂ to Octal.
-22. Convert 1001₂ to Octal.
-23. Convert 110101₂ to Octal.
-24. Convert 1011101₂ to Octal.
-25. Convert 1111111₂ to Octal.
+21. Convert 111₂ to Octal. 7
+22. Convert 1001₂ to Octal. 11
+23. Convert 110101₂ to Octal. 65
+24. Convert 1011101₂ to Octal. 135
+25. Convert 1111111₂ to Octal. 177
 
 ### 🔹 **Binary to Hexadecimal**
-26. Convert 1000₂ to Hexadecimal.
-27. Convert 110011₂ to Hexadecimal.
-28. Convert 11110000₂ to Hexadecimal.
-29. Convert 1010101010₂ to Hexadecimal.
-30. Convert 1111111111₂ to Hexadecimal.
+26. Convert 1000₂ to Hexadecimal. 8
+27. Convert 110011₂ to Hexadecimal. 33
+28. Convert 11110000₂ to Hexadecimal. F0
+29. Convert 1010101010₂ to Hexadecimal. 2AA
+30. Convert 1111111111₂ to Hexadecimal. 3FF
 
 ### 🔹 **Octal to Decimal**
 31. Convert 24₈ to Decimal.
